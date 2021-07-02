@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MartinMrt
+- 👋 Hi, I’m @elfoh99 (Martin MrT).
 - 👀 I’m interested in frinding a job that makes me learn a lot of new content and team working.
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
